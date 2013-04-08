@@ -1,4 +1,3 @@
-
 (function () {
   // Initialize a basic Teambox app
   Teambox.Apps.BreadFish = Teambox.BaseApp.extend({});
